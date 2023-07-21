@@ -30,9 +30,7 @@
 
 ##
 
-<!-- 
 ![Snake animation](https://github.com/marcelomenegat/marcelomenegat/blob/output/github-contribution-grid-snake-dark.svg)
--->
 
 ## Contact
 

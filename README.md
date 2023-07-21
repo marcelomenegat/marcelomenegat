@@ -23,9 +23,11 @@
 </div>
 
 ##
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=marcelomenegat&show_icons=true" alt="mmenegat"/> 
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomenegat&exclude_repo=RBLXHUB,MirayCDN,NHSE-VillagerDB&hide=lua&hide_border=true" /></a> |
+</p>
+<p align="center">
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelomenegat&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Ivan's github stats" /></a> |
 </p>
 
 ##

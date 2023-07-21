@@ -1,45 +1,48 @@
 <h1 align="center">Hi, I'm Marcelo Menegat 👋</h1>
-<h3 align="center">A Front-End Developer developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmenegat" alt="mmenegat" /> </p>
+<h3 align="center">A Front-End Developer</h3>
+<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=mmenegat" alt="mmenegat" /> </p-->
 
-- 🔭 I’m currently working on [Asseco PST](https://www.linkedin.com/company/asseco-pst)
+ ## Skills
+<div style="display: inline_block"><br>  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="Menegat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="Menegat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="Menegat-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="Menegat-NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="Menegat-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="Menegat-MongoDb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="Menegat-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+    
+</div>
 
-- 👨‍💻 All of my projects are available at [menegat.dev](https://github.com/marcelomenegat)
-
-- 🌱 I’m currently learning **Redux, Redux-saga, GraphQL**
-
-- 💬 Ask me about **JavaScript, React, jQuery**
-
-- 📫 How to reach me **menegat.marcelo@gmail.com**
-
-- ⚡ Fun fact **🦕 Dinosaurs lover 🦖**
-
-<p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original.svg" alt="jquery" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
-</p>
+##
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=marcelomenegat&show_icons=true" alt="mmenegat"/> 
 </p>
 
-![Snake animation](https://github.com/marcelomenegat/marcelomenegat/blob/output/github-contribution-grid-snake.svg)
+##
 
-<p align="center">
-<!--
-<a href="https://codepen.io/mmenegat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="mmenegat" height="20" width="20" /></a>
+<!-- 
+![Snake animation](https://github.com/marcelomenegat/marcelomenegat/blob/output/github-contribution-grid-snake-dark.svg)
 -->
-<a href="https://twitter.com/mmenegat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mmenegat" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/marcelo-menegat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mmenegat" height="20" width="20" /></a>
-<!--
-<a href="https://stackoverflow.com/mmenegat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mmenegat" height="20" width="20" /></a>
-<a href="https://codesandbox.com/mmenegat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="mmenegat" height="20" width="20" /></a>
--->
-<a href="https://fb.com/mmenegat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mmenegat" height="20" width="20" /></a>
-<a href="https://instagram.com/mmenegat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mmenegat" height="20" width="20" /></a>
-</p>
+
+## Contact
+
+<div> 
+    <p align="center">
+        <a href="https://www.linkedin.com/in/marcelo-menegat" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+        <a href = "mailto: menegat.marcelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+        <!--a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+        <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a-->
+        </br>  
+    </p> 
+</div>
+

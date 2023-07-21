@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Marcelo Menegat 👋</h1>
-<h3 align="center">A Front-End Developer</h3>
+<h1 align="center">Hi, 👋</h1>
+
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=mmenegat" alt="mmenegat" /> </p-->
 
  ## Skills
@@ -24,8 +24,8 @@
 
 ##
 <p align="center">
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomenegat&include_all_commits=true&count_private=true&hide_border=true&size_weight=0.5&count_weight=0.5&layout=compact&theme=synthwave" /></a> |
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelomenegat&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&layout=compact&theme=synthwave" alt="Ivan's github stats" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomenegat&include_all_commits=true&count_private=true&hide_border=true&size_weight=0.5&count_weight=0.5&layout=compact&theme=synthwave" alt="Menegat's top langs"/></a> |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelomenegat&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&layout=compact&theme=synthwave" alt="Menegat's github stats" /></a> |
 </p>
 
 ##

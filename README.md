@@ -28,6 +28,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=marcelomenegat&show_icons=true" alt="mmenegat"/> 
 </p>
 
+![Snake animation](https://github.com/marcelomenegat/marcelomenegat/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
 <!--
 <a href="https://codepen.io/mmenegat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="mmenegat" height="20" width="20" /></a>

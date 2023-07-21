@@ -24,10 +24,8 @@
 
 ##
 <p align="center">
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomenegat&exclude_repo=RBLXHUB,MirayCDN,NHSE-VillagerDB&hide=lua&hide_border=true" /></a> |
-</p>
-<p align="center">
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelomenegat&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Ivan's github stats" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomenegat&include_all_commits=true&count_private=true&hide_border=true&size_weight=0.5&count_weight=0.5&layout=compact&theme=synthwave" /></a> |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelomenegat&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&layout=compact&theme=synthwave" alt="Ivan's github stats" /></a> |
 </p>
 
 ##

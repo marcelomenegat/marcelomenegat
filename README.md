@@ -4,8 +4,10 @@
 
  ## Skills
 <div style="display: inline_block"><br>  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp; 
   <img height="40" align="center" alt="Menegat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Menegat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -25,7 +27,9 @@
 ##
 <p align="center">
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomenegat&include_all_commits=true&count_private=true&hide_border=true&size_weight=0.5&count_weight=0.5&layout=compact&theme=synthwave" alt="Menegat's top langs"/></a> |
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelomenegat&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&layout=compact&theme=synthwave" alt="Menegat's github stats" /></a> |
+<!--
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelomenegat&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&layout=compact&theme=synthwave" alt="Menegat's github stats" /></a |
+-->
 </p>
 
 ##
